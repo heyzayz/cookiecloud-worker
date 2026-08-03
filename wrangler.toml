@@ -7,8 +7,8 @@ compatibility_date = "2024-12-01"
 #   npx wrangler kv namespace create COOKIE_KV --preview
 [[kv_namespaces]]
 binding = "COOKIE_KV"
-id = "DATA_STORE"
-preview_id = "07d2f4c8d3f24e38b89795cdfa519ee7"
+id = "7d0c88a5b828430f85ec77daa962287e"
+preview_id = "7d0c88a5b828430f85ec77daa962287e"
 
 # 可选：挂到二级目录时改为 /cookie（默认 "/" 即根路径，部署时可改）
 [vars]
