@@ -4,7 +4,7 @@
 
 ## 一键部署（推荐）
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xuyingb/cookiecloud-worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xuyinggua/cookiecloud-worker)
 
 全程在网页上点几下即可，无需安装任何软件，只需一个免费的 Cloudflare 账号：
 
