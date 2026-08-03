@@ -1,0 +1,14 @@
+{
+  "name": "cookiecloud-worker",
+  "version": "1.0.0",
+  "description": "CookieCloud API running on Cloudflare Workers",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
