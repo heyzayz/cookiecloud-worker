@@ -10,6 +10,6 @@ binding = "COOKIE_KV"
 id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
 preview_id = "REPLACE_WITH_YOUR_KV_NAMESPACE_PREVIEW_ID"
 
-# 可选：与原来服务端一致的 API_ROOT 环境变量，指定二级目录（需以斜杠开头，如 /cookie）
+# 可选：挂到二级目录时改为 /cookie（默认 "/" 即根路径，部署时可改）
 [vars]
-API_ROOT = ""
+API_ROOT = "/"

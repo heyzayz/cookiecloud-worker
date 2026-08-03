@@ -1,5 +1,5 @@
-// CookieCloud API server as a Cloudflare Worker.
-// Faithful port of server/api/app.js, storing data in Cloudflare KV instead of files.
+// CookieCloud API on Cloudflare Workers.
+// Faithful port of server/api/app.js, storing data in Cloudflare KV.
 //
 // Endpoints (API_ROOT env can add a subdirectory prefix, e.g. /cookie):
 //   GET  {root}/            -> greeting
